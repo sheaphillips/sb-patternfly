@@ -1,0 +1,19 @@
+
+$icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';
+//@import '~bootstrap-sass/assets/stylesheets/_bootstrap.scss';
+
+//<!-- PatternFly Styles -->
+//<!-- Note: No other CSS files are needed regardless of what other JS packages located in patternfly/components that you decide to pull in -->
+//<link rel="stylesheet" href="node_modules/patternfly/dist/css/patternfly.min.css">
+//<link rel="stylesheet" href="node_modules/patternfly/dist/css/patternfly-additions.min.css">
+
+@import '~patternfly/dist/css/patternfly-additions.min.css';
+@import '~patternfly/dist/css/patternfly.min.css';
+
+
+html { height: 100%; }
+body {
+  min-height: 100%;
+  position: relative;
+  padding-bottom: 60px;
+}
