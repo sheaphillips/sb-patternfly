@@ -45,7 +45,7 @@
     "html-webpack-plugin": "^2.22.0",
     "imagemin-pngquant": "^5.0.0",
     "jquery": "^3.2.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "manifest-revision-webpack-plugin": "^0.3.0",
     "moment": "^2.18.1",
     "ng-storage": "^0.3.2",
